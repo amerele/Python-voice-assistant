@@ -1,0 +1,9 @@
+Code was commented in PT/BR for non-developers understand as well what is each line acctually doing.
+For using Ttitania, we need first set pyttsx pip as speech synthesizer.
+We also have to create file txt "Memoria" if it doesn't exist.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Código segue com comentários em portugês para melhor entendimento de não-programadores sobre o que cada comando está realizando.
+Para uso da Titania sem que haja alterações no código fonte, temos que configurar primeiramente o PIP Pyttsx, que é usado como sintetizador de voz.
+Também temos que criar o arquivo "Memoria.txt" caso ele não exista na pasta de trabalho.
+
+Mesmo sendo um código simples, feito por um estudante de 16 anos, foi o meu primeiro projeto de desenvolvimento, então meio que criei um carinho por ele.
